@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Grammar Rewriter",
+  "version": "1.0",
+  "description": "A chatbot-like extension that rewrites sentences with proper grammar.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Grammar Rewriter"
+  },
+  "permissions": ["activeTab"]
+}
